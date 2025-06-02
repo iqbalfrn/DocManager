@@ -489,7 +489,6 @@
         <div class="auth-left">
             <div class="auth-header">
                 <h1 class="auth-title">Selamat Datang</h1>
-                <p class="auth-subtitle">Masuk ke akun Anda untuk melanjutkan</p>
             </div>
 
             <div class="auth-body">
@@ -573,7 +572,7 @@
             <h2 class="brand-title">DocManager</h2>
             <p class="brand-slogan">Kelola Dokumen dengan Mudah</p>
             <p class="brand-description">
-                Platform manajemen dokumen yang powerful dan user-friendly untuk mengorganisir, menyimpan, dan mengelola semua file Anda dengan aman.
+                Platform manajemen dokumen untuk mengorganisir, menyimpan, dan mengelola semua file Anda dengan aman.
             </p>
             
             <ul class="feature-list">
@@ -600,14 +599,6 @@
                         </svg>
                     </div>
                     Kolaborasi Tim yang Efektif
-                </li>
-                <li class="feature-item">
-                    <div class="feature-icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
-                        </svg>
-                    </div>
-                    Akses Multi-Platform
                 </li>
             </ul>
         </div>
